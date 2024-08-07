@@ -1,7 +1,7 @@
 
 ## Batch Script for Renaming Files
 
-This batch script allows you to rename multiple files in a folder based on new names specified in a text file. The script prompts the user for the location of the new names file and the folder containing the files to rename, and allows customization of the file extension for the new names.
+This batch script allows you to rename multiple files in a folder based on new names specified in a text file. The script prompts the user for the location of the new names file and the folder containing the files to rename.
 
 ## Prerequisites
 
